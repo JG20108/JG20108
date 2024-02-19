@@ -20,7 +20,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### Languages and Backend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,17 +40,6 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
-
-
-### ⚙ GitHub Analytics
-<div>
-<a href="https://github.com/josé-guillén">
-    <img width=450 height=170 align="center" alt="josé-guillén" src="https://github-readme-stats.vercel.app/api?username=josé-guillén&count_private=true&theme=tokyonight&show_icons=true&hide=issues&hide_border=true" />
-  </a>
-  <a href="https://github.com/josé-guillén">
-    <img align="center" alt="josé-guillén" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josé-guillén&layout=compact&hide=php,smarty&theme=tokyonight&langs_count=6&hide_border=true" />
-  </a>
-</div>
 
 ### 🤝🏻 Connect with Me
 [![Mail](https://img.shields.io/badge/joseosgui@hotmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseosgui@hotmail.com.com)
