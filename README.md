@@ -11,7 +11,7 @@
 🏢 I'm currently a Software Engineer in [Hello Iconic](https://www.helloiconic.com/).  
 🚀 In my free time I like to work in personal projects with React, Javascript, and take courses for learning and improving.  
 📧 You can connect with me via my email at [joseosgui@hotmail.com](mailto:joseosgui@hotmail.com) or in [LinkedIn](www.linkedin.com/in/josé-guillén).  
-// WIP 📄 Please have a look at my [Résume]() and my [Website]() for more details about me. I'm open to feedback and suggestions!  
+ WIP 📄 Please have a look at my [Résume]() and my [Website]() for more details about me. I'm open to feedback and suggestions!  
 
 
 ### 🛠 Tech Stack
@@ -20,9 +20,9 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-%3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=F05138)
+![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 #### Languages and Backend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
