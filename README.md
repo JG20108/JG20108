@@ -11,7 +11,7 @@
 🏢 I'm currently a Software Engineer in [Hello Iconic](https://www.helloiconic.com/).  
 🚀 In my free time I like to work in personal projects with React, Javascript, and take courses for learning and improving.  
 📧 You can connect with me via my email at [joseosgui@hotmail.com](mailto:joseosgui@hotmail.com) or in [LinkedIn](www.linkedin.com/in/josé-guillén).  
- 📄 Please have a look at my [Résume]() and my [Portfolio](https://portfolio-theta-gold-13.vercel.app) for more details about me. I'm open to feedback and suggestions!  
+ 📄 Please have a look at my [Résume]() and my [Portfolio](https://portfolio-theta-gold-13.vercel.app) -WIP, for more details about me. I'm open to feedback and suggestions!  
 
 
 ### 🛠 Tech Stack
