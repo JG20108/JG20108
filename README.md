@@ -47,8 +47,8 @@
 
 <p align="center">
 <a href="https://github.com/hikarisaotom">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hikarisaotom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hikarisaotom&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jg20108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jg20108&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
