@@ -43,6 +43,15 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/hikarisaotom">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hikarisaotom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hikarisaotom&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### 🤝🏻 Connect with Me
 [![Mail](https://img.shields.io/badge/joseosgui@hotmail.com.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseosgui@hotmail.com.com)
 [![LinkedIn](https://img.shields.io/badge/josé-guillén-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-guillén/)
